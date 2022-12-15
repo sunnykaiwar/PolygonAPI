@@ -1,0 +1,11 @@
+{
+      "rpcurl": "HTTP://127.0.0.1:7545",
+      "sendingAddress": "0xFedb2C6C1344ff1Db43fb274430b1443D9a298FF",
+      "nonce": "0",
+      "receivingAddress": "0xaA4bdd75244E7e664D531E340BcCE69f4E0b97E0",
+      "gasPrice": "20000000",
+      "gasLimit": "30000",
+      "value": "2",
+      "data": "Payload data",
+      "privateKeySender": "5f707a5c43c1b86c89b2a6042dde295629bd0a6856f460c5a739e0bfcfae44cc"
+    }
